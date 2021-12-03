@@ -11,3 +11,20 @@ saying it will be easy to make
 
 # The hard part
 Finding how much time user has been offline
+
+
+
+## HOW IT WILL WORK
+so here is the plan ( i am not claiming i am the first one to do this also there is a reason i have made it open source)
+
+DONT STEAL THE IDEA OR ME WILL KEEL YU
+
+Yems me eez a supid keed
+
+1) First the program will be kept running in a 99.9% uptime server
+2) It will be constantly monitor a specific ip or something like that discord id to check there uptime ( ip is a bad idea if we die our sibling use internet and they nasty and computer stupid will think we online)
+3) So it will keep monitoring and lets assume you pass out ( pains )
+4) Then ur id will be showing offline and the program will be storing that in a database which will be private ofc
+5) If it records you offline for more than 30 days it will trigger a function to send a message to your social accounts dming everyone
+6) Yes u have to give social credentials ofc it would be store in your pc not with me 
+7) Privacy issue solved + Your online friends will know when u die
